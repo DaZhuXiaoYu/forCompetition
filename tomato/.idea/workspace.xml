@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ecbddfe-9dc6-4c0e-a334-ece5b374c0fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../git_home/tomato/tomato.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0ecbddfe-9dc6-4c0e-a334-ece5b374c0fb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../git_home/tomato/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-98">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="228">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -82,24 +72,6 @@
               <item name="tomato" type="b2602c69:ProjectViewProjectNode" />
               <item name="tomato" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="tomato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tomato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tomato" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tomato" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -143,18 +115,25 @@
       <option name="presentableId" value="Default" />
       <updated>1579065105704</updated>
       <workItem from="1579065107194" duration="707000" />
-      <workItem from="1579065840726" duration="1756000" />
+      <workItem from="1579065840726" duration="2027000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交的空项目">
+      <created>1579071653964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579071653964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2463000" />
+    <option name="totallyTimeSpent" value="2734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -168,13 +147,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -193,6 +172,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../../gitRepository" />
     </ignored-roots>
+    <MESSAGE value="第一次提交的空项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交的空项目" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../git_home/tomato/src/main/webapp/index.jsp">
@@ -204,8 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../git_home/tomato/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
